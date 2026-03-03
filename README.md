@@ -24,12 +24,6 @@ Atualmente estou aprofundando meus estudos em Estatística e Ciência de Dados, 
 
 🛠️ Tecnologias Utilizadas no Site
 
-HTML5
-
-CSS3
-
-JavaScript
-
 GitHub Pages
 
 📂 Projetos em Destaque
@@ -41,9 +35,6 @@ Visualizações estratégicas
 
 Extração de insights acionáveis
 
-🤖 Modelos de Machine Learning
-
-Regressão
 
 Classificação
 
@@ -73,8 +64,8 @@ Consolidar minha transição para Ciência de Dados
 
 📬 Contato
 
-💼 LinkedIn: https://linkedin.com/in/seu-link
+💼 LinkedIn: https://www.linkedin.com/in/izabela-schich/
 
-📧 Email: seuemail@email.com
+📧 Email: izabela.schick@gmail.com
 
-🐙 GitHub: https://github.com/seuusuario
+🐙 GitHub: https://github.com/Belaschich
