@@ -4,7 +4,7 @@ Bem-vinda(o) ao meu portfólio!
 Este repositório apresenta meus projetos em Análise de Dados, Estatística e Machine Learning, desenvolvidos com foco em transformar dados em decisões estratégicas.
 
 🔗 Acesse o site:
-👉 https://seuusuario.github.io/
+👉 https://belaschich.github.io/Portifolio/
 
 🚀 Sobre Mim
 
